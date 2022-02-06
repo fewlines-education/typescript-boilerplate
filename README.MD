@@ -1,6 +1,6 @@
 # TypeScript Boilerplate
 
-This is a bare simple TS boilerplate. Feel free to clone it and use it as you want.
+This is a bare simple TS boilerplate. Feel free to use it as you want with the `Use this template` button.
 
 ## Dependencies
 
@@ -13,7 +13,7 @@ It comes with some packages pre-installed:
 
 ### Installation
 
-The Sandbox uses node `14.4.0`.
+The Sandbox uses node `16.13.1`.
 You can manuall install it or use [asdf](https://github.com/asdf-vm/asdf).
 
 ```bash
